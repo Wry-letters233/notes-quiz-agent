@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Environment secrets - never commit this
+backend/.env
+
+# App data (personal PDFs' embeddings, quiz progress, XP) - stays local only
+backend/data/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
